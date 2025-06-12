@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 3. Set Up Your Bot Token
 Replace DISCORD_BOT_TOKEN in the .env file with your bot's actual token.
-5. Configure the Bot Settings
+4. Configure the Bot Settings
 Modify the following values in your bot's script:
 ```
 selected_voice_channel_id = YOUR_QURAAN_CHANNEL_ID
@@ -27,11 +27,13 @@ audio_url = "https://backup.qurango.net/radio/tarateel"
 ```
 
 
-4. Keep-Alive Configuration
+5. Keep-Alive Configuration
 The keep_alive.py script ensures your bot stays online while hosted on Render.
-5. Run the Bot
+6. Run the Bot
 Start your bot using:
-`python qu.py`
+```
+python qu.py
+```
 
 
 Hosting on Render
