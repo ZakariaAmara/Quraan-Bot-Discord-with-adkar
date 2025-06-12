@@ -11,7 +11,9 @@ cd Quraan-Bot-Discord-with-adkar
 
 2. Install Dependencies
    
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 
 3. Set Up Your Bot Token
