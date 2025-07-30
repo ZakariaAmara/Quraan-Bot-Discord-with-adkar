@@ -34,10 +34,7 @@ Start your bot using:
 ```
 python qu.py
 ```
-
-
-Hosting on Render
-Your bot is hosted using Render. Ensure that:
+If your bot is hosted using Render. Ensure that:
 - The keep_alive.py script is running.
 - The correct environment variables are set up.
 - The required dependencies are installed.
